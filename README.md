@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ky2009888
-- 👀 I’m interested in JavaEE Fish
+- 👀 I’m interested in JavaEE,K8S,CICD,Fish
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on Java infos
 - 📫 How to reach me ...
